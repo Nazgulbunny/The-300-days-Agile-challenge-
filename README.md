@@ -1,6 +1,6 @@
 ## Welcome to The Agile Projects Challenge in 300 days 
 
-###INTRODUCTION
+### INTRODUCTION
 
 The scope of this challenge is to use Agile methodologies to achieve medium-long term projects/goals or habits.
 You can push yourself to do things that you wouldn’t do for a short period of time, but you cannot force yourself forever without to risk a mental or a physical burnout.  
@@ -18,7 +18,7 @@ Scrum as a framework.
 That said if this challenge can also be accomplished in groups or in organizations as a pet project or teams activities. 
 If this is the case you can still use the lightweight version or, if you have experience, you can use a completely different agile framework, and adapt it to your needs or projects.
 
-###RULES OF PLAY
+### RULES OF PLAY
 
 - Fork the project and make it public.
 - Create a README.MD file on that you will write the date in which you started the challenge, the scope, the person involved, if there are, the roles if there are and everything else you think is worth mention.
@@ -55,7 +55,7 @@ If this is the case you can still use the lightweight version or, if you have ex
 - After that take 10 minutes pause and take 1 hour to plan the next sprint.
 - Repeat this iteration every sprint
   
-###Q&A
+### Q&A
 
 - Q: Why are we using Github?
  - A: GitHub is a free project management tool that is really handy because it comes with a lot of built-in tools like the project board. It comes with the possibility to create the milestone, labels, issues that can be added directly to the project. Everything can be linked to create paths and dependencies. 
@@ -76,7 +76,7 @@ On top of that, it won’t be easy for other to check your accomplishment or giv
 - Q: Is this a real agile framework?
  - A: Absolutely not! This is a lightweight framework that I made up. It has taken some ceremonies from scrum framework but those have been adopted. This will give you a glimpse about how agile works but to have an official training you should join or check out some worldwide recognized organization such as ScrumAlliance [https://www.scrumalliance.org/].
 
-###ADDITIONAL READINGS
+### ADDITIONAL READINGS
 
 - To start you need, only, a GitHub account (that is free) 
  - Github[https://github.com/]
