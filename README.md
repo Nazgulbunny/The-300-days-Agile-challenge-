@@ -6,7 +6,7 @@ The scope of this challenge is to use Agile methodologies to achieve medium-long
 You can push yourself to do things that you wouldn’t do for a short period of time, but you cannot force yourself forever without to risk a mental or a physical burnout.  
 I have developed this challenge for people that have not to much time to work on their development or pet project because they have a full-time job or other duties that don’t allow them to spend a lot of hours on a full-time project.
 
-The Idea about this challenge came to me after I wrote my post about The startup agile transformation on LinkedIn. I thought about how I could create a lightweight agile framework for personal development transformation based on SMART goals and iterative empirical processes.  
+The Idea about this challenge came to me after I wrote my post about The startup agile transformation on LinkedIn[https://www.linkedin.com/pulse/agile-schr%C3%B6dingers-cat-paradox-massimiliano-sermi/]. I thought about how I could create a lightweight agile framework for personal development transformation based on SMART goals and iterative empirical processes.  
 In  this way, people will be able to understand what is working for them, what is not working adapt and change until they get a constant pace to develop themselves
 
 Because I like working with agile methodologies I thought to create a long-term challenge to bring value to people lives focusing on long terms goals but working in an iterative way to see the progress sprint after sprint.
