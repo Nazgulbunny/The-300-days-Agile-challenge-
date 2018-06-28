@@ -25,7 +25,7 @@ If this is the case you can still use the lightweight version or, if you have ex
 - Take some time before starting the challenge to plan about the milestones/projects that you want to accomplish and keep it very generic.
 - Set a date for these milestones, if you don’t have an idea about it keep the 300 days as a deadline.
 - Create user stories and link it to the milestone(we can use issues in GitHub to create user stories and label them as user stories).
-- Use this format to describe the user story "as a <type of user> I want to < do something > so that <I can archieve something>.
+- Use this format to describe the user story "as a < type of user > I want to < do something > so that < I can archieve something >" .
 - Add acceptance criteria as a checklist to the user stories, these will represent the tasks to be completed to match the definition of done. When all those checklists are marked the user story can be considered done (You can add checklist in GitHub with this syntax - [ ]).
 - Put as final acceptance criteria the result obtained by completing the user story, it can be a photo, it can be a link to a certificate it can be a list of exercises complete correctly or anything else that can show your archived result.
 - After create a project with 4 columns:
