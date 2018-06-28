@@ -15,7 +15,7 @@ This challenge is also a good hands-on practice exercise to understand how agile
 Nonetheless, because this challenge can be accomplished in solo mode, I have made up, in the rules of play, a lightweight version of 
 Scrum as a framework.
 
-That said if this challenge can also be accomplished in groups or in organizations as a pet project or teams activities. 
+That said, this challenge can also be accomplished in groups or in organizations as a pet project or teams activities. 
 If this is the case you can still use the lightweight version or, if you have experience, you can use a completely different agile framework, and adapt it to your needs or projects.
 
 ### RULES OF PLAY
