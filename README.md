@@ -101,7 +101,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nazgulbunny/The-300-days-Agile-challenge-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 
-## My 300 Days Agile Challenge
+## My 333 Days Agile Challenge
 
 ### Start and End Date
 - Start: 
