@@ -11,9 +11,8 @@ In  this way, people will be able to understand what is working for them, what i
 
 Because I like working with agile methodologies I thought to create a long-term challenge to bring value to people lives focusing on long terms goals but working in an iterative way to see the progress sprint after sprint.
 
-This challenge is also a good hands-on practice exercise to understand how agile works and how agile practices could be applied to every situation and not just in software development
-Nonetheless, because this challenge can be accomplished in solo mode, I have made up, in the rules of play, a lightweight version of 
-Scrum as a framework.
+This challenge is also a good hands-on practice exercise to understand how agile works and how agile practices could be applied to every situation and not just in software development.
+Nonetheless, because this challenge can be accomplished in solo mode, I have made up, in the rules of play, a lightweight version of Scrum as a framework.
 
 That said, this challenge can also be accomplished in groups or in organizations as a pet project or teams activities. 
 If this is the case you can still use the lightweight version or, if you have experience, you can use a completely different agile framework, and adapt it to your needs or projects.
@@ -28,12 +27,12 @@ If this is the case you can still use the lightweight version or, if you have ex
 - Use this format to describe the user story "as a < type of user > I want to < do something > so that < I can archieve something >" .
 - Add acceptance criteria as a checklist to the user stories, these will represent the tasks to be completed to match the definition of done. When all those checklists are marked the user story can be considered done (You can add checklist in GitHub with this syntax - [ ]).
 - Put as final acceptance criteria the result obtained by completing the user story, it can be a photo, it can be a link to a certificate it can be a list of exercises complete correctly or anything else that can show your archived result.
-- After create a project with 4 columns:
+- Than create a project with 4 columns:
   - Project backlog 
   - Sprint to do 
   - In progress 
   - Done
-- Add the user's stories you have created in the backlog column, this will represent your initial commitment for the 300 days challenge. Keep in mind that the backlog is a living creature, so it might be possible that you will remove users stories from there or that you will add more user stories or milestones as soon as the challenge goes on.
+- Add the user's stories you have created in the backlog column, this will represent your initial commitment for the 333 days challenge. Keep in mind that the backlog is a living creature, so it might be possible that you will remove users stories from there or that you will add more user stories or milestones as soon as the challenge goes on.
 - After that think carefully about how many of these user stories you will be able to complete in a sprint(2 weeks). 
   - Not worry at the beginning you won’t be able to understand correctly how many user stories or tasks you will be able to  accomplish because more you will work iteratively, more you will learn about your speed and you will learn to chose every time the right amount of user stories.
 - When all this is done you can start the challenge and start working on the sprint user stories.
@@ -115,4 +114,5 @@ I want to increase my knowledge of different new subjects, keep my body and mind
 I want also to apply a simple agile framework that I made up to try to reach those things. 
 My idea here is to empirical try to come up with the best schedule and pace I can, iteration after iteration, to find a good balance between not job-related commitments,projects and fun/social activities that bring me satisfaction in personal life.
 
-
+### Persons involved
+At the moment just me if someone will join or help me in the challenge I will add or mention him/her
