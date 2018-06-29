@@ -1,4 +1,4 @@
-## Welcome to The Agile Projects Challenge in 300 days 
+## Welcome to The Agile Projects Challenge in 333 days 
 
 ### INTRODUCTION
 
@@ -23,7 +23,7 @@ If this is the case you can still use the lightweight version or, if you have ex
 - Fork the project and make it public.
 - Create a README.MD file on that you will write the date in which you started the challenge, the scope, the person involved, if there are, the roles if there are and everything else you think is worth mention.
 - Take some time before starting the challenge to plan about the milestones/projects that you want to accomplish and keep it very generic.
-- Set a date for these milestones, if you don’t have an idea about it keep the 300 days as a deadline.
+- Set a date for these milestones, if you don’t have an idea about it keep the 333 days as a deadline.
 - Create user stories and link it to the milestone(we can use issues in GitHub to create user stories and label them as user stories).
 - Use this format to describe the user story "as a < type of user > I want to < do something > so that < I can archieve something >" .
 - Add acceptance criteria as a checklist to the user stories, these will represent the tasks to be completed to match the definition of done. When all those checklists are marked the user story can be considered done (You can add checklist in GitHub with this syntax - [ ]).
@@ -108,7 +108,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 - Start: 
  - On the 2nd of July 2018
 - End:
- - On the 28th of April 2019
+ - On the 31th of May 2019
  
 ### Scope
 
