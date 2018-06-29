@@ -67,7 +67,7 @@ And very important progress can be tracked via repository, branches etc. so, the
 On top of that, it won’t be easy for other to check your accomplishment or give help and that can bring you to not feel the peer pressure.
 
 - Q: Does anyone need my password to follow or work on my project?
- - A: Absolutely not! no one needs your password for anything. Never give your password around, just be sure to make your repository public and give the possibility to other to comment or help you in the settings.
+ - A: Absolutely not! no one needs your password for anything. Never give your password around, just be sure to make your repository public and give the possibility to other to comment or help you. Just check your settings.
  
  - Q: Do I need to have a complete list of the project I want to do before starting the challenge?
   - A: Absolutely not! As I said you need just a starting point, after that you can always add new projects, user stories, tasks at the end of each sprint in the sprint planning or day by day grooming the project backlog when you have time.
