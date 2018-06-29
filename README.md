@@ -113,6 +113,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Scope
 I want to increase my knowledge of different new subjects, keep my body and mind health and feel motivated in trying to achieve some goals that I have in mind. 
 I want also to apply a simple agile framework that I made up to try to reach those things. 
-My idea here is to empirical try to come up with the best schedule and pace I can, iteration after iteration, to find a good balance between not job-related commitments that bring me satisfaction in personal life.
+My idea here is to empirical try to come up with the best schedule and pace I can, iteration after iteration, to find a good balance between not job-related commitments,projects and fun/social activities that bring me satisfaction in personal life.
 
 
